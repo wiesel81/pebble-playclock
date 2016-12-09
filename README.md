@@ -1,5 +1,7 @@
 # PlayClock
-Playclock for American Football officials working as on-field timekeeper.
+by Michael Krenn, American Football official in Austria.
+
+Playclock for American Football officials working as on-field timekeeper based on the NCAA Rules 2016.
 
 With this watchapp it is possible to operate the 40/25 on the field without taking a look at the watch and missing action. It works offline although most of the settings like notifications and vibration patterns are customizable via phone when connected.
 
