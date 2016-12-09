@@ -1,0 +1,85 @@
+{
+    "author": "Michael Krenn",
+    "dependencies": {
+        "pebble-clay": "^1.0.3"
+    },
+    "keywords": [],
+    "name": "playclock",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "PlayClock (American Football)",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "VibesEnabled",
+            "VibesOnNotificationsEnabled",
+            "VibesOnTimerExpiredPatternIndex",
+            "VibesOnButtonPressedPatternIndex",
+            "VibesOnButtonStartsDefaultTimerPatternIndex",
+            "VibesOnButtonStartsShortTimerPatternIndex",
+            "Notification_1_Second",
+            "Notification_1_OnDefaultTimerEnabled",
+            "Notification_1_OnShortTimerEnabled",
+            "Notification_1_VibePatternIndex",
+            "Notification_1_StateMessage",
+            "Notification_2_Second",
+            "Notification_2_OnDefaultTimerEnabled",
+            "Notification_2_OnShortTimerEnabled",
+            "Notification_2_VibePatternIndex",
+            "Notification_2_StateMessage",
+            "Notification_3_Second",
+            "Notification_3_OnDefaultTimerEnabled",
+            "Notification_3_OnShortTimerEnabled",
+            "Notification_3_VibePatternIndex",
+            "Notification_3_StateMessage",
+            "Notification_4_Second",
+            "Notification_4_OnDefaultTimerEnabled",
+            "Notification_4_OnShortTimerEnabled",
+            "Notification_4_VibePatternIndex",
+            "Notification_4_StateMessage",
+            "Notification_5_Second",
+            "Notification_5_OnDefaultTimerEnabled",
+            "Notification_5_OnShortTimerEnabled",
+            "Notification_5_VibePatternIndex",
+            "Notification_5_StateMessage"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/football_40_25_48x48_transparent.png",
+                    "name": "IMAGE_APP_ICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/football_40_25_144x144_transparent.png",
+                    "name": "IMAGE_APP_ICON_BIG",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/football_pc_25x25_bw.png",
+                    "menuIcon": true,
+                    "name": "IMAGE_MENU_ICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "06ddcfc8-f881-405f-b4bc-35d51ca108a3",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
