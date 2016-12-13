@@ -31,7 +31,7 @@ Presets timer to 25", not running (new state: *25" PRESET*)
 The timer can have the following states:
 
 ### STANDBY (start screen)
-![STANDBY](docs/standby.png "STANDBY")
+![STANDBY](docs/standby.png)
 #### SELECT-Button
 Vibration signals can be enabled / disabled immediately without connecting to the phone.
 
