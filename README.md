@@ -31,23 +31,23 @@ Presets timer to 25", not running (new state: *25" PRESET*)
 The timer can have the following states:
 
 ### STANDBY (start screen)
-![alt text](docs/standby.png "STANDBY")
+![STANDBY](docs/standby.png "STANDBY")
 #### SELECT-Button
 Vibration signals can be enabled / disabled immediately without connecting to the phone.
 
 ### 40" RUNNING
-![alt text](docs/40_running.png "40sec RUNNING")
+![40sec RUNNING](docs/40_running.png "40sec RUNNING")
 #### SELECT-Button pressed long
 Stops 40" countdown (new state: *40" STOPPED*)
 
 ### 40" EXPIRED (*1x long vibe*)
-![alt text](docs/40_expired.png "40sec EXPIRED")
+![40sec EXPIRED](docs/40_expired.png "40sec EXPIRED")
 
 ### 40" STOPPED
-![alt text](docs/40_stopped.png "40sec STOPPED")
+![40sec STOPPED](docs/40_stopped.png "40sec STOPPED")
 
 ### 40" PRESET
-![alt text](docs/40_preset.png "40sec PRESET")
+![40sec PRESET](docs/40_preset.png "40sec PRESET")
 #### SELECT-Button (*1x short vibe*)
 Starts 40" countdown (new state: *40" RUNNING*)
 
@@ -70,7 +70,7 @@ When 5 seconds left, the state message *5" WARNING!* is displayed and a notifica
 ## Settings
 On the smartphone the vibration patterns, notifications and other features of the PlayClock can be configured very easily. Note that there is only communication from the smartphone to the Pebble watch implemented, not the other way! So enabling / disabling the vibration on the Pebble (SELECT-Button pressed in standby mode) is overwritten when the settings on the smartphone are saved the next time (while connected to the Pebble watch, of course).
 
-![alt text](docs/settings_global.png "global settings")
-![alt text](docs/settings_buttons.png "button settings")
-![alt text](docs/settings_notification1.png "notification settings")
-![alt text](docs/settings_notification.png "notification settings")
+![global settings](docs/settings_global.png "global settings")
+![button settings](docs/settings_buttons.png "button settings")
+![notification settings](docs/settings_notification1.png "notification settings")
+![notification settings](docs/settings_notification.png "notification settings")
