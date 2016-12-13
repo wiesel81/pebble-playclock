@@ -73,4 +73,4 @@ On the smartphone the vibration patterns, notifications and other features of th
 ![global settings](doc/settings_global.png "global settings")
 ![button settings](doc/settings_buttons.png "button settings")
 ![notification settings](doc/settings_notification1.png "notification settings")
-![notification settings](doc/settings_notification.png "notification settings")
+![notification settings](doc/settings_notification2.png "notification settings")
