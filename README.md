@@ -52,7 +52,7 @@ Stops 40" countdown (new state: *40" STOPPED*)
 Starts 40" countdown (new state: *40" RUNNING*)
 
 ### 25" RUNNING / 25" EXPIRED / 25" STOPPED / 25" PRESET
-The 25 second countdown works the same way as described for the 0 second countdown.
+The 25 second countdown works the same way as described for the 40 second countdown.
 
 ## Notifications
 At least up to 5 notifications can be configured via smartphone. The following 3 notifications are set by default:
