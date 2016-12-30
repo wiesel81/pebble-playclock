@@ -48,6 +48,13 @@
         "resources": {
             "media": [
                 {
+                    "file": "images/football_25x25_bw.png",
+                    "menuIcon": true,
+                    "name": "IMAGE_MENU_ICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
                     "file": "images/football_40_25_48x48_transparent.png",
                     "name": "IMAGE_APP_ICON",
                     "targetPlatforms": null,
@@ -56,13 +63,6 @@
                 {
                     "file": "images/football_40_25_144x144_transparent.png",
                     "name": "IMAGE_APP_ICON_BIG",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
-                    "file": "images/football_pc_25x25_bw.png",
-                    "menuIcon": true,
-                    "name": "IMAGE_MENU_ICON",
                     "targetPlatforms": null,
                     "type": "bitmap"
                 }
