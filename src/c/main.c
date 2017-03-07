@@ -9,7 +9,7 @@ int windowWidth;
 Layer *layerCanvas;
 
 void intTo2DigitText(int value, char *buf) {
-	snprintf(buf, sizeof(buf), "%02d", value);
+	snprintf(buf, 3, "%02d", value);
 }
 
 static void init(void) {

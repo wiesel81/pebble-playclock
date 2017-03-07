@@ -29,7 +29,7 @@ static ClaySettings settings = { VIBE_ENABLED_DEFAULT,
 																VIBE_ON_BUTTON_STARTS_SHORT_TIMER_PATTERN_INDEX_DEFAULT,
 																// Notifications [second, onDefaultTimerEnabled, onShortTimerEnabled, vibePatternIndex, stateMessage]
 																{ { 25, true, false, 1, "BALL READY?" },
-																{ 10, true, true, 3, "10\" WARNING!" },
+																	{ 10, true, true, 3, "10\" WARNING!" },
 																	{ 5, true, true, 3, "5\" WARNING!" },
 																	{ 0, false, false, 0, "" },
 																	{ 0, false, false, 0, "" }

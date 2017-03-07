@@ -219,7 +219,7 @@ void appLoad(Window *window) {
 	// Initialize timer
 	timer.info = &TIMER_STANDBY;
 	if(timer.valueDisplay == NULL) {
-		timer.valueDisplay = malloc(sizeof(char) * 2);
+		timer.valueDisplay = malloc(sizeof(char) * 3);
 	}
 	
 	// Initialize settings
