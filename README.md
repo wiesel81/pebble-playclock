@@ -59,7 +59,7 @@ The 25 second countdown works the same way as described for the 40 second countd
 At least up to 5 notifications can be configured via smartphone. The following 3 notifications are set by default:
 
 ### BALL READY? (*1x short vibe*)
-When the timer reads *25*, the state message changes from *40" RUNNING* to *BALL READY?* and a notification (one short vibration) is sent.
+When the timer reads *25*, the state message changes from *40" RUNNING* to *BALL READY?* and a notification (one short vibration) is sent.  
 Of course this happens only when the default timer (40 seconds) is running.
 
 ### 10" WARINING! (*2x short vibe*)
@@ -85,8 +85,8 @@ Uhr für American Football Schiedsrichter, die am Feld für die PlayClock verant
 
 Mit dieser Watchapp ist es möglich, die PlayClock am Feld zu betreiben, ohne auf die Uhr zu sehen und Vorgänge am Spielfeld zu verpassen. Die Uhr funktioniert ohne Verbindung zum Handy, trotzdem die meisten Einstellungen wie Benachrichtigungen und Vibrationsmuster via Handy veränderbar sind, wenn eine Verbindung besteht.
 
-Den oberen oder unteren Knopf zu drücken startet den 40- oder 25-Sekunden Countdown und sendet ein Vibrationssignal als Bestätigung.
-Drückt man einen dieser Knöpfe länger, kann der jeweilige Countdown voreingestellt und mit dem mittleren Knopf gestartet werden.
+Den oberen oder unteren Knopf zu drücken startet den 40- oder 25-Sekunden Countdown und sendet ein Vibrationssignal als Bestätigung.  
+Drückt man einen dieser Knöpfe länger, kann der jeweilige Countdown voreingestellt und mit dem mittleren Knopf gestartet werden.  
 Wird der mittlere Knopf länger gedrückt, stoppt der Countdown oder der Standby-Modus wird aktiviert, in welchem die Vibration durch erneutes Drücken dieses Knopfes ein- und ausgeschaltet werden kann.
 
 5 Benachrichtigungen können individuell eingestellt werden. Standardmäßig sendet die PlayClock ein Vibrationssignal wenn 25 Sekunden verbleiben (ball ready?), bei 10 und 5 Sekunden und natürlich auch, wenn der Countdown abgelaufen ist.
@@ -139,7 +139,7 @@ Der 25-Sekunden Countdown funktioniert gleichermaßen wie für den 40-Sekunden C
 Bis zu 5 Benachrichtigungen können am Handy konfiguriert werden. Die folgenden 3 Benachrichtigungen sind standardmäßig gesetzt:
 
 ### BALL READY? (*1x kurze Vibration*)
-Sobald die Uhr *25* anzeigt, ändert sich die Nachricht von *40" RUNNING* auf *BALL READY?* und eine Benachrichtigung (eine kurze Vibration) wird gesendet.
+Sobald die Uhr *25* anzeigt, ändert sich die Nachricht von *40" RUNNING* auf *BALL READY?* und eine Benachrichtigung (eine kurze Vibration) wird gesendet.  
 Natürlich passiert dies nur, wenn die 40-Sekunden-Uhr läuft.
 
 ### 10" WARINING! (*2x kurze Vibrationen*)
