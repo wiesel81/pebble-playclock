@@ -92,9 +92,9 @@ Wird der mittlere Knopf länger gedrückt, stoppt der Countdown oder der Standby
 5 Benachrichtigungen können individuell eingestellt werden. Standardmäßig sendet die PlayClock ein Vibrationssignal wenn 25 Sekunden verbleiben (ball ready?), bei 10 und 5 Sekunden und natürlich auch, wenn der Countdown abgelaufen ist.
 
 ## Wie funktionierts?
-Der Zurück-Knopf (jener auf der linken Seite) schließt immer die GameClock Watchapp, daher ist Vorsicht geboten, ihn nicht unabsichtlich zu drücken.
+Der Zurück-Knopf (jener auf der linken Seite) schließt immer die PlayClock Watchapp, daher ist Vorsicht geboten, ihn nicht unabsichtlich zu drücken.
 
-Die 3 Knöpfe auf der rechten Seite funktionieren immer wie folgt außer es ist bei den einzelnen Zuständen etwas anderes beschrieben:
+Die 3 Knöpfe auf der rechten Seite funktionieren immer wie folgt, außer es ist bei den einzelnen Zuständen etwas anderes beschrieben:
 
 #### Knopf oben (*1x kurze Vibration*)
 Startet den 40" Countdown (neuer Zustand: *40" RUNNING*)
